@@ -31,3 +31,6 @@ uploads/
 Thumbs.db
 # uv virtual environment
 .venv/
+
+# Playwright MCP
+.playwright-mcp/
