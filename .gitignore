@@ -34,3 +34,7 @@ Thumbs.db
 
 # Playwright MCP
 .playwright-mcp/
+
+# Node.js (frontend tooling)
+node_modules/
+package-lock.json

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# External libraries (loaded via CDN)
+*.min.js
+*.min.css
+
+# Package lock files
+package-lock.json
